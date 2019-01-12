@@ -4,6 +4,8 @@
 * UDP NIO
 * UDP Netty NIO
 * TCP Netty NIO  
+* HTTP Netty NIO  
+* HTTPS Netty NIO  
 * any 转 byte  
 * byte 转 any  
 
